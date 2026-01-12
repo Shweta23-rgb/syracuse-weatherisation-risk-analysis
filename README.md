@@ -60,7 +60,7 @@ All data is standardized to the neighborhood level (n=50) through direct aggrega
 
 ## Executive Summary
 
-![Neighborhood Weatherization Risk Quadrant](quadrant_image.png)
+![Neighborhood Weatherization Risk Quadrant](Neighborhood_Weatherization_Risk_Quadrant_Updated.png)
 
 1. A small group of Syracuse neighborhoods face both high historical heating violations and high current unresolved risk, placing them in the highest-priority category for weatherization intervention. Northside stands out as the most extreme case.
 
